@@ -4,7 +4,7 @@ This project was designed to gain experience interpreting functional description
 
 We also practiced writing and executing Node.js REST API server using VSCode, using Fastify with the GET verb, routes, and route parameters, using Postman to test web server routes, and working with JSON.
 
-Source code for this project can be found [here]()
+Source code for this project can be found [here](https://github.com/nataleeirwin/cit281-p4)
 
 ### Elements
 
@@ -19,4 +19,4 @@ Source code for this project can be found [here]()
 
 ## Here is an example of the folders created during this project
 
-![Screenshot of folders.png](https://github.com/nataleeirwin/cit281-p1/blob/main/p1%20files/p1-tree.png)
+![Screenshot of p4-module.js](https://github.com/nataleeirwin/cit281-p4/blob/main/p4%20files/example%20of%20p4-module.js.png)
