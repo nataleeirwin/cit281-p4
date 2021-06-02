@@ -1,37 +1,22 @@
-## Welcome to GitHub Pages
+# Project 4
 
-You can use the [editor on GitHub](https://github.com/nataleeirwin/cit281-p4/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+This project was designed to gain experience interpreting functional descriptions and specifications to complete an assignment, breaking a project into manageable components, and using modern JavaScript syntax. 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+We also practiced writing and executing Node.js REST API server using VSCode, using Fastify with the GET verb, routes, and route parameters, using Postman to test web server routes, and working with JSON.
 
-### Markdown
+Source code for this project can be found [here]()
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Elements
 
-```markdown
-Syntax highlighted code block
+- Create project files, initialize Node project file, and add fastify
+- Create data file
+- Import data into code module
+- Create and test code module functions
+- Export code module functions
+- Create and test REST API server
+- Extra Credit: Add support for POST
 
-# Header 1
-## Header 2
-### Header 3
 
-- Bulleted
-- List
+## Here is an example of the folders created during this project
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/nataleeirwin/cit281-p4/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+![Screenshot of folders.png](https://github.com/nataleeirwin/cit281-p1/blob/main/p1%20files/p1-tree.png)
