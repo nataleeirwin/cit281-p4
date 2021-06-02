@@ -4,7 +4,6 @@ This project was designed to gain experience interpreting functional description
 
 We also practiced writing and executing Node.js REST API server using VSCode, using Fastify with the GET verb, routes, and route parameters, using Postman to test web server routes, and working with JSON.
 
-Source code for this project can be found [here]()
 
 ### Elements
 
